@@ -6,7 +6,7 @@ I work at the intersection of product positioning, GTM storytelling, and content
 
 > Content isn't output. It's infrastructure.
 
-🌐 **Portfolio:** https://sridhar-c-s.github.io &nbsp;·&nbsp; 💼 **LinkedIn:** [sridhar-c-s](https://www.linkedin.com/in/sridhar-c-s) &nbsp;·&nbsp; 📄 **Résumé:** [PDF]([./Sridhar_C_S_Resume.pdf](https://sridhar-c-s.github.io/Sridhar_C_S_Resume.pdf))
+🌐 **Portfolio:** https://sridhar-c-s.github.io &nbsp;·&nbsp; 💼 **LinkedIn:** [sridhar-c-s](https://www.linkedin.com/in/sridhar-c-s) &nbsp;·&nbsp; 📄 **Résumé:** [PDF][https://sridhar-c-s.github.io/Sridhar_C_S_Resume.pdf]
 
 ---
 
